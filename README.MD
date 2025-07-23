@@ -29,7 +29,7 @@
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório faz parte do meu Desafio de Projeto do Bootcomp "Microsoft 50 Anos - Prompts Inteligentes" em parceria com a [DIO](https://dio.me).
+ > ℹ️ **NOTE:** Este repositório faz parte do meu Desafio de Projeto do Bootcomp "Microsoft 50 Anos - Prompts Inteligentes" em parceria com a [DIO](https://dio.me).
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
