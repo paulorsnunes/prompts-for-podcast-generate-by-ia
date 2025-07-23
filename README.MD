@@ -72,7 +72,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       width=80 
       src="https://avatars.githubusercontent.com/u/8807499?v=4"
     />
-    <p>&nbsp&nbspPaulo Nunes<br>
+    <p>&nbsp&nbsp&nbsp&nbspPaulo Nunes<br>
     &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/paulorsnunes">
