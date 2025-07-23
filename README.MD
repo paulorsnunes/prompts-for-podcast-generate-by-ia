@@ -80,7 +80,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="www.linkedin.com/in/paulorsnunes">
+        href="https://www.linkedin.com/in/paulorsnunes/">
         LinkedIn
     </a>
     &nbsp;|&nbsp;</p>
@@ -90,4 +90,4 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ por [Paulo Nunes](https://github.com/paulorsnunes)
