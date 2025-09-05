@@ -51,7 +51,7 @@ Pode utilizar a lista de prompts para gerar cada etapa do processo criativo.
 
 ## 📚 Materiais
 
-- [Notion Template](https://www.notion.so/PAS-Podcast-AI-Studio-2399d9ecddec805aa5bbd90ff644f20f?source=copy_link)
+- [Notion Template - Conheça o PODCAST](https://www.notion.so/PAS-Podcast-AI-Studio-2399d9ecddec805aa5bbd90ff644f20f?source=copy_link)
 - [Editor de aúdio](https://www.capcut.com/)
 
 
